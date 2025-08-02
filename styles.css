@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f7fa;
+  color: #222;
+  text-align: center;
+  padding: 2rem;
+}
+
+header {
+  background: white;
+  padding: 2rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.logo-container img {
+  width: 120px;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  color: #1a1a1a;
+}
+
+.motto {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+  color: #555;
+  font-style: italic;
+}
+
+.tagline {
+  font-size: 1rem;
+  margin-top: 0.25rem;
+  color: #777;
+}
+
+main {
+  padding: 3rem 1rem;
+}
+
+.coming-soon h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #999;
+}
